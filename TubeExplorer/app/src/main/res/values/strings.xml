@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TubeExplorer</string>
+
+    <string name="tab_videos">Videos</string>
+    <string name="tab_details">Details</string>
+
+    <string name="menu_search">Search</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="search_hint">Search YouTube…</string>
+
+    <string name="watch_on_youtube">▶  Watch on YouTube</string>
+    <string name="no_item_selected">No video loaded yet. Pull to refresh in the Videos tab.</string>
+    <string name="no_description">No description available.</string>
+    <string name="published_on">Published on %1$s</string>
+    <string name="thumbnail_desc">Video thumbnail</string>
+
+    <string name="notif_success_title">Videos Loaded ✔</string>
+    <string name="notif_success_text">%1$d videos were loaded successfully from the YouTube API.</string>
+    <string name="notif_error_title">Loading Failed ✖</string>
+    <string name="toast_error">Error: %1$s</string>
+</resources>
